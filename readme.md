@@ -1,0 +1,2 @@
+## Consumindo API Advice Slip
+
